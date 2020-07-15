@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-How do you like your eggs in the morning?
+Strive onwards diligently for your own liberation, O Monks!
 Use the left arrow to go back!
